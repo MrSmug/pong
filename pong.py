@@ -29,7 +29,7 @@ speed = 5
 
 ls, rs = 0, 0
 
-pixfont = pygame.font.Font('UltimatePygameIntro-main\\UltimatePygameIntro-main\\font\\Pixeltype.ttf', 50)
+pixfont = pygame.font.Font('Pixeltype.ttf', 50)
 
 
 while True:
